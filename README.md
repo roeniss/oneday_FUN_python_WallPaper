@@ -13,7 +13,7 @@ Oneday FUN Python - WallPaper part
 
 ## 1-2. Sublime text3 설치
 직접 코드를 작성할 에디터를 설치합니다. 여기서는 서브라임 텍스트3를 사용하겠습니다.
-[관련링크(네이버블로그)](https://m.blog.naver.com/PostView.nhn?blogId=sprax&logNo=220636669357&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F).  
+[관련링크(네이버 블로그)](https://m.blog.naver.com/PostView.nhn?blogId=sprax&logNo=220636669357&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F).  
 해당 링크에서 **6번, 7번은 제외하고** 완료해주시면 됩니다.  
 > 꼭 이 에디터를 쓰실 필요는 없습니다. 본인이 쓰시는 에디터가 있으시다면 어느 것이라도 좋습니다.
 
