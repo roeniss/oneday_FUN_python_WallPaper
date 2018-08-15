@@ -1,7 +1,7 @@
 import os, sys, random, ctypes
 from time import sleep
 from selenium import webdriver
-import win32com.client as comctl
+import win32com.client as comctl 
 CATEGORY_NAMES = [
 "Aero",
 "Animals",
