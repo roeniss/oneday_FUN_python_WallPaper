@@ -34,7 +34,7 @@ CATEGORY_NAMES = [
 ]
 CATEGORY = dict()
 for k,v in enumerate(CATEGORY_NAMES):
-	CATEGORY[k] = v
+	CATEGORY[k] = v 
 
 def machine(size, downloadFolder):
 
