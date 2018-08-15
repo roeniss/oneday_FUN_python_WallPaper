@@ -46,7 +46,7 @@ def machine(size, downloadFolder):
 	# 랜덤 확률로 발동
 	start = False
 	if random.randint(1,5) == 1: start = True
-	start = 1	
+	# start = 1	
 	if not start:
 		wsh = comctl.Dispatch("WScript.Shell")
 		wsh.SendKeys("%{F4}")
