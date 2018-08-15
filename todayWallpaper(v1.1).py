@@ -50,9 +50,10 @@ def todayWallpaper():
 ###---------------추가된 부분 START----------------###
 	
 	# 카테고리 소개
-	print("카테고리 종류는 다음과 같습니다.\n\n[", end="")
-	for k,v in CATEGORY.items(): # k = 숫자, v = 카테고리 영문명
-		print("{}({}), ".format(v,k))
+	print("카테고리 종류는 다음과 같습니다.\n", end="")
+	for k,v in CATEGORY.items():
+		print("{}({}), ".format(v,k), end="")
+	print("이상입니다.")
 
 	# 제대로 된 숫자를 입력하면 while문을 벗어날 수 있음
 	while(1):
@@ -61,7 +62,7 @@ def todayWallpaper():
 		if num.isdigit() and (int(num) in CATEGORY.keys()): 
 			break
 		else: 
-			print("정상적인 숫자를 입력해주세요."	)	
+			print("정상적인 숫자를 입력해주세요.")	
 
 	s = CATEGORY[int(num)] # 해당 숫자에 해당하는 카테고리 이름(영어)를 변수 s에 저장합니다.
 	
