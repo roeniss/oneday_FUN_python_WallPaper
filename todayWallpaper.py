@@ -28,7 +28,7 @@ CATEGORY_NAMES = [
 "Nature",
 "Seasons",
 "Space",
-"Sports",
+"Sports", 
 "Travel",
 "Vintage",
 ]
