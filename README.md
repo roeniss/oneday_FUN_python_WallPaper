@@ -78,7 +78,7 @@ Selenium : 크롬을 통해 인터넷에 접속하게 도와줍니다. [관련 �
 # 3. 파일 소개
 
 
-[보고계신 화면](https://github.com/roeniss/oneday_FUN_python_WallPaper/edit/master/README.md)의 상단에서,   
+[보고계신 화면](https://github.com/roeniss/oneday_FUN_python_WallPaper/)의 상단에서,   
 **commit 제목**(ex. "강의자료(알고리즘 v1.0)")을 클릭하시면 이 파일에 대한 설명을,  
 **file 이름**(ex. "todayWallpaper.py")을 클릭하시면 실제 코드 내용을 보실 수 있습니다.
 
