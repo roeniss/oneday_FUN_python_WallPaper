@@ -4,7 +4,7 @@ Oneday FUN Python - WallPaper part
 ------------------------------
 > 모든 내용은 Windows 기준으로 작성하였습니다. Mac 등은 다른 식으로 접근해야 할 수도 있습니다.
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 강의실에 충전기가 매우 부족합니다!! 배터리 꽉 꽉 채워 오셔야 합니다 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 강의실에 충전기가 매우 부족합니다!! 배터리 꽉꽉 채워 오셔야 합니다 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
 # 1. 사전준비  
 ## 1-1. python3, pip 설치  
