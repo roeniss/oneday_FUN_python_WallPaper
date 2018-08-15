@@ -29,7 +29,7 @@ CATEGORY_NAMES = [
 "Motors",
 "Movies",
 "Music",
-"Nature",i
+"Nature",
 "Seasons",
 "Space",
 "Sports",
